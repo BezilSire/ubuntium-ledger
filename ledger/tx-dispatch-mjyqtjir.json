@@ -1,0 +1,14 @@
+{
+  "id": "dispatch-mjyqtjir",
+  "senderId": "c89EPGhSBVNMDkmBvk82GGMstkV2",
+  "receiverId": "07hv3DDDTcgyn3ovrBpCzOjQfQi1",
+  "amount": 3,
+  "timestamp": 1767471372794,
+  "nonce": "ZovGZ0PMrFB2hDMdxzLWew==",
+  "signature": "okyW4dNKTJPpn7UpYXbhDTlMRAaLXIh317Nj1sUDAfX9I2DTy8W5HR2oss4YuK/czJcBIrZ17mCqRjVosgVDAg==",
+  "hash": "c89EPGhSBVNMDkmBvk82GGMstkV2:07hv3DDDTcgyn3ovrBpCzOjQfQi1:3:1767471372794:ZovGZ0PMrFB2hDMdxzLWew==",
+  "senderPublicKey": "UBT-E9xasNot15IV4qNZbeGiX43JGVILKzEn7zRXQFi/RRg=",
+  "parentHash": "GENESIS_CHAIN",
+  "type": "P2P_HANDSHAKE",
+  "protocol_mode": "MAINNET"
+}
