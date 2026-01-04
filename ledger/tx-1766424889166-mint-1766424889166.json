@@ -1,0 +1,16 @@
+{
+  "id": "mint-1766424889166",
+  "amount": 10000,
+  "hash": "GENESIS_MINT_EVENT",
+  "serverTimestamp": {
+    "seconds": 1766424889,
+    "nanoseconds": 405000000
+  },
+  "type": "SYSTEM_MINT",
+  "timestamp": 1766424889166,
+  "signature": "SYSTEM_SIGNED",
+  "senderPublicKey": "GENESIS_NODE",
+  "senderId": "GENESIS",
+  "receiverId": "bDKcFBzV2VdCGb2m1DPOph0WCHk1",
+  "receiverPublicKey": "UBT-5EkNuFegcrP2aq6nPH68DhteDyyHu79lVeocKTANUEg="
+}
