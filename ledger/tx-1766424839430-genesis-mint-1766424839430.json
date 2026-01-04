@@ -1,0 +1,15 @@
+{
+  "id": "genesis-mint-1766424839430",
+  "receiverId": "GENESIS",
+  "senderId": "PROTOCOL_ORIGIN",
+  "serverTimestamp": {
+    "seconds": 1766424842,
+    "nanoseconds": 522000000
+  },
+  "signature": "SYSTEM_SIGNED",
+  "amount": 15000000,
+  "senderPublicKey": "TREASURY",
+  "timestamp": 1766424839430,
+  "hash": "PROTOCOL_GENESIS_EVENT",
+  "type": "SYSTEM_MINT"
+}
