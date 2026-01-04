@@ -1,0 +1,20 @@
+{
+  "id": "dispatch-mjymd76v",
+  "serverTimestamp": {
+    "seconds": 1767463896,
+    "nanoseconds": 190000000
+  },
+  "senderPublicKey": "UBT-E9xasNot15IV4qNZbeGiX43JGVILKzEn7zRXQFi/RRg=",
+  "timestamp": 1767463891853,
+  "type": "P2P_HANDSHAKE",
+  "nonce": "GZJaMlNi8VFRyJZp+Hu7uA==",
+  "amount": 5.8,
+  "hash": "c89EPGhSBVNMDkmBvk82GGMstkV2:07hv3DDDTcgyn3ovrBpCzOjQfQi1:5.8:1767463891853:GZJaMlNi8VFRyJZp+Hu7uA==",
+  "priceAtSync": 0.0913,
+  "senderId": "c89EPGhSBVNMDkmBvk82GGMstkV2",
+  "protocol_mode": "MAINNET",
+  "ledger_url": "",
+  "signature": "wHCTRFNEzIZuXkFSUt4Hw0iraAKM015UTcxDI2PXJVlnZbTcCQiocdOOl8ck4UNSJ+vgDQd51/3/4uieInCeBA==",
+  "receiverId": "07hv3DDDTcgyn3ovrBpCzOjQfQi1",
+  "parentHash": "GENESIS_CHAIN"
+}
