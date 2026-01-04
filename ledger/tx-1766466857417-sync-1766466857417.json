@@ -1,0 +1,16 @@
+{
+  "id": "sync-1766466857417",
+  "amount": 1000000,
+  "timestamp": 1766466857417,
+  "signature": "SYSTEM_SIGNED",
+  "senderId": "GENESIS",
+  "protocol_mode": "MAINNET",
+  "hash": "SYNC_EVENT_sync-1766466857417",
+  "type": "VAULT_SYNC",
+  "senderPublicKey": "TREASURY_AUTHORITY",
+  "receiverId": "VENTURE",
+  "serverTimestamp": {
+    "seconds": 1766466858,
+    "nanoseconds": 813000000
+  }
+}
