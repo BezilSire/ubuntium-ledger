@@ -1,0 +1,19 @@
+{
+  "id": "dispatch-mjqzoznh",
+  "serverTimestamp": {
+    "seconds": 1767002550,
+    "nanoseconds": 912000000
+  },
+  "type": "P2P_HANDSHAKE",
+  "priceAtSync": 0.0913,
+  "timestamp": 1767002547569,
+  "receiverId": "iLLNW7RAVwYt9jIwBkDUkxrwklX2",
+  "amount": 1,
+  "hash": "c89EPGhSBVNMDkmBvk82GGMstkV2:iLLNW7RAVwYt9jIwBkDUkxrwklX2:1:1767002547569:A4cS2KgaBGeou1tl",
+  "senderPublicKey": "UBT-BbAdqFwRPRuuWxsq+to/hsqZLBV4Z2TGKJQYuiKuOD0=",
+  "parentHash": "GENESIS_CHAIN",
+  "nonce": "A4cS2KgaBGeou1tl",
+  "protocol_mode": "MAINNET",
+  "signature": "5VUZKBWfZSXLbLk+8a21qOxRl/lcYvcJAhbe/5jmjxADr624prtUhUBm40EFxjDuxW+oXOWamU7dAR7Ia7gsBA==",
+  "senderId": "c89EPGhSBVNMDkmBvk82GGMstkV2"
+}
