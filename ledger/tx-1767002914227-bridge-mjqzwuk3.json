@@ -1,0 +1,13 @@
+{
+  "id": "bridge-mjqzwuk3",
+  "timestamp": 1767002914227,
+  "senderId": "FLOAT",
+  "serverTimestamp": {
+    "seconds": 1767002915,
+    "nanoseconds": 655000000
+  },
+  "receiverId": "c89EPGhSBVNMDkmBvk82GGMstkV2",
+  "type": "FIAT_BRIDGE",
+  "amount": 100,
+  "protocol_mode": "MAINNET"
+}
