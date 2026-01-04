@@ -1,0 +1,17 @@
+{
+  "id": "auth-dispatch-mjhhykx7",
+  "serverTimestamp": {
+    "seconds": 1766428569,
+    "nanoseconds": 337000000
+  },
+  "receiverId": "c89EPGhSBVNMDkmBvk82GGMstkV2",
+  "hash": "GENESIS:ZERLqc1rpIBo9wjS5Yb9n2eDfoQcLgFjklhPESLIC2k=:2:1766428566361:rnvE56jdpaPXJDYW",
+  "senderId": "GENESIS",
+  "senderPublicKey": "5nUndAIN+ttC/iqMw/XetOucGgtmfVqjCxouk92pOis=",
+  "signature": "eieTbV9X7CtDxX0biZjUVYemUDeaHqt3wSG1GcDhjAZ8kdr6DrEgNURG/LqWdTpUZa2eoPf9ThQzfdVK8epuAg==",
+  "timestamp": 1766428566361,
+  "protocol_mode": "MAINNET",
+  "parentHash": "TREASURY_ROOT",
+  "nonce": "rnvE56jdpaPXJDYW",
+  "amount": 2
+}
