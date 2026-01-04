@@ -1,0 +1,18 @@
+{
+  "id": "internal-sync-mjiycs1l",
+  "senderPublicKey": "TREASURY_SIGNATURE",
+  "signature": "TREASURY_AUTHORITY_SYNC",
+  "hash": "sync:GENESIS:FLOAT:1000000",
+  "timestamp": 1766516568825,
+  "amount": 1000000,
+  "serverTimestamp": {
+    "seconds": 1766516570,
+    "nanoseconds": 770000000
+  },
+  "nonce": "INTERNAL",
+  "type": "VAULT_SYNC",
+  "senderId": "GENESIS",
+  "parentHash": "INTERNAL_LEDGER",
+  "protocol_mode": "MAINNET",
+  "receiverId": "FLOAT"
+}
