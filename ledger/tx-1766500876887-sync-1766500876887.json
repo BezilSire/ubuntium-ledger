@@ -1,0 +1,14 @@
+{
+  "id": "sync-1766500876887",
+  "timestamp": 1766500876887,
+  "protocol_mode": "MAINNET",
+  "reason": "tokenomics Distribution",
+  "serverTimestamp": {
+    "seconds": 1766500878,
+    "nanoseconds": 702000000
+  },
+  "amount": 1800000,
+  "senderId": "GENESIS",
+  "receiverId": "DISTRESS",
+  "senderPublicKey": "GENESIS_PROTOCOL_ADDR"
+}
