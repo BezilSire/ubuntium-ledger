@@ -1,0 +1,20 @@
+{
+  "id": "dispatch-mjyshdqc",
+  "parentHash": "GENESIS_CHAIN",
+  "hash": "c89EPGhSBVNMDkmBvk82GGMstkV2:07hv3DDDTcgyn3ovrBpCzOjQfQi1:2:1767474164658:mhKp996pAZFZDsZJgIEElg==",
+  "receiverId": "07hv3DDDTcgyn3ovrBpCzOjQfQi1",
+  "senderPublicKey": "UBT-E9xasNot15IV4qNZbeGiX43JGVILKzEn7zRXQFi/RRg=",
+  "serverTimestamp": {
+    "seconds": 1767474170,
+    "nanoseconds": 773000000
+  },
+  "timestamp": 1767474164658,
+  "type": "P2P_HANDSHAKE",
+  "priceAtSync": 0.0913,
+  "senderId": "c89EPGhSBVNMDkmBvk82GGMstkV2",
+  "signature": "KJTWaLZ7g5Kmob1rZKkLeWEwBo+WIBcMpS/WV8OwoIY7JHEhjreWm2QPP3bZgL82/fKj4PZTMJeaM9u0JUzDBw==",
+  "ledger_url": "https://github.com/BezilSire/ubuntium-ledger/blob/main/ledger/tx-dispatch-mjyshdqc.json",
+  "nonce": "mhKp996pAZFZDsZJgIEElg==",
+  "amount": 2,
+  "protocol_mode": "MAINNET"
+}
