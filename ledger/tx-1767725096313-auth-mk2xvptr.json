@@ -1,0 +1,13 @@
+{
+  "id": "auth-mk2xvptr",
+  "senderId": "FLOAT",
+  "receiverId": "EXTERNAL_NODE",
+  "amount": 5154.64,
+  "timestamp": 1767725096313,
+  "nonce": "0VHYroSmep6W13e4aRcd9w==",
+  "signature": "kH1XDH/0aVZ23xvvK1eSaBvdMVJ7p3AgzOLAmeBIqg4lFsArGxjdRljEBg/a+MEwcT6vPr2TIZu19z/kADfKBg==",
+  "hash": "FLOAT:UBT-JYUI/2X2EOWQHWPQR6KIEINA1QZEZPEKVVNNILQEXWW=:5154.64:1767725096313:0VHYroSmep6W13e4aRcd9w==",
+  "senderPublicKey": "FLOAT_NODE",
+  "parentHash": "ROOT_STATE",
+  "protocol_mode": "MAINNET"
+}
