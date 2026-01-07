@@ -1,0 +1,14 @@
+{
+  "id": "auth-mk3nlg3p",
+  "senderId": "FLOAT",
+  "receiverId": "EXTERNAL_NODE",
+  "receiverPublicKey": "UBT-E9XASNOT15IV4QNZBEGIX43JGVILKZEN7ZRXQFI/RRG=",
+  "amount": 25,
+  "timestamp": 1767768287163,
+  "nonce": "ihjpY3liQRVe3QQEM7D8Ng==",
+  "signature": "Xwkujk31UWYp6qy+Zv+tx8lB8V7N0GNi8W89TxLLDUvfnohX3VqWIMLWyXVIUus3xfk4jgK075KbTs5EM41eCA==",
+  "hash": "FLOAT:UBT-E9XASNOT15IV4QNZBEGIX43JGVILKZEN7ZRXQFI/RRG=:25:1767768287163:ihjpY3liQRVe3QQEM7D8Ng==",
+  "senderPublicKey": "FLOAT_NODE",
+  "parentHash": "ROOT_STATE",
+  "protocol_mode": "MAINNET"
+}
