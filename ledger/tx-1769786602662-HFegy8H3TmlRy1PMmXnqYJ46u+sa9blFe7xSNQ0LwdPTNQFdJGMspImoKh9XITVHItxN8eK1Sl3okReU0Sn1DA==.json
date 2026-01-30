@@ -1,0 +1,14 @@
+{
+  "id": "HFegy8H3TmlRy1PMmXnqYJ46u+sa9blFe7xSNQ0LwdPTNQFdJGMspImoKh9XITVHItxN8eK1Sl3okReU0Sn1DA==",
+  "senderId": "FLOAT",
+  "receiverId": "EXTERNAL_NODE",
+  "receiverPublicKey": "UBT-LDZHNQSPIQXO2WXVBO/YXQIHKQABC3YQFZW4YAYQEA8=",
+  "amount": 5000,
+  "timestamp": 1769786602662,
+  "nonce": "Vg4IiSBiz7O58fGK/NgSUw==",
+  "signature": "HFegy8H3TmlRy1PMmXnqYJ46u+sa9blFe7xSNQ0LwdPTNQFdJGMspImoKh9XITVHItxN8eK1Sl3okReU0Sn1DA==",
+  "hash": "FLOAT:UBT-LDZHNQSPIQXO2WXVBO/YXQIHKQABC3YQFZW4YAYQEA8=:5000:1769786602662:Vg4IiSBiz7O58fGK/NgSUw==",
+  "senderPublicKey": "FLOAT_NODE",
+  "parentHash": "ROOT_STATE_ENTRY",
+  "protocol_mode": "MAINNET"
+}
